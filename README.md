@@ -1,6 +1,7 @@
 # CWX-Register-Broken-Access-Control
 
 - Report: November 2022
+- Affected: Tested on v8.5.6
 - Fix: No information
 - Credit: WhiteBearVN_
 
