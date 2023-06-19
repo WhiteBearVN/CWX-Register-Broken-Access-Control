@@ -4,6 +4,7 @@
 - Affected: Tested on v8.5.6
 - Fix: No information
 - Credit: WhiteBearVN_
+- ID: CVE-2022-45287, CVE-2023-34797
 
 ## Description
 Temenos CWX has an Broken Access Control vulnerability in /Registration.aspx, leak serial number and can be updated information, welcome message at home page
